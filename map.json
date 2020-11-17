@@ -40,7 +40,7 @@
                  "value":"..\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":"meeting"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -141,7 +141,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -941,8 +941,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":761,
-         "source":"leipzig_fair_extras_set.tsx"
+         "image":"..\/blubbelcert\/leipzig_fair_extras_set.png",
+         "imageheight":192,
+         "imagewidth":64,
+         "margin":0,
+         "name":"leipzig_fair_extras_set",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":8,
