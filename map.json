@@ -156,7 +156,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"office_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -904,7 +904,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/blubbelcert\/AceSet-Hospital.png",
+         "image":"AceSet-Hospital.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -917,7 +917,7 @@
         {
          "columns":8,
          "firstgid":577,
-         "image":"..\/blubbelcert\/cert_set.png",
+         "image":"cert_set.png",
          "imageheight":480,
          "imagewidth":256,
          "margin":0,
@@ -930,7 +930,7 @@
         {
          "columns":8,
          "firstgid":697,
-         "image":"..\/blubbelcert\/dungeon.png",
+         "image":"dungeon.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -943,7 +943,7 @@
         {
          "columns":2,
          "firstgid":761,
-         "image":"..\/blubbelcert\/leipzig_fair_extras_set.png",
+         "image":"..leipzig_fair_extras_set.png",
          "imageheight":192,
          "imagewidth":64,
          "margin":0,
@@ -956,7 +956,7 @@
         {
          "columns":8,
          "firstgid":773,
-         "image":"..\/blubbelcert\/leipzig_fair_set.png",
+         "image":"leipzig_fair_set.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
@@ -969,7 +969,7 @@
         {
          "columns":2,
          "firstgid":805,
-         "image":"..\/blubbelcert\/misc_set.png",
+         "image":"misc_set.png",
          "imageheight":461,
          "imagewidth":64,
          "margin":0,
@@ -982,7 +982,7 @@
         {
          "columns":2,
          "firstgid":833,
-         "image":"..\/blubbelcert\/storage_set.png",
+         "image":"storage_set.png",
          "imageheight":224,
          "imagewidth":64,
          "margin":0,
