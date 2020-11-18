@@ -748,12 +748,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":699,
-         "source":"cert_set.tsx"
+         "image":"cert_set.png",
+         "imageheight":576,
+         "imagewidth":256,
+         "margin":0,
+         "name":"cert_set",
+         "spacing":0,
+         "tilecount":144,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":843,
-         "source":"misc_set.tsx"
+         "image":"misc_set.png",
+         "imageheight":461,
+         "imagewidth":64,
+         "margin":0,
+         "name":"misc_set",
+         "spacing":0,
+         "tilecount":28,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
