@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#startOben"
+                 "value":"map.json#Oben"
                 }],
          "type":"tilelayer",
          "visible":true,
