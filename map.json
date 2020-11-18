@@ -50,7 +50,7 @@
          "height":23,
          "id":10,
          "name":"exit_stairs",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"exitSceneUrl",
@@ -688,7 +688,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
@@ -724,7 +724,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
@@ -760,7 +760,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
@@ -805,7 +805,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
