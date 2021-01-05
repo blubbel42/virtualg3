@@ -79,7 +79,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"toilette.mp3"
+                 "value":"audio\/toilette.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
