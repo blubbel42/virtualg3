@@ -111,6 +111,12 @@
          "id":21,
          "name":"telefon",
          "opacity":0,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"audio\/office-telephone-ringing.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":48,
